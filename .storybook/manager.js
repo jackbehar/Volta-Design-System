@@ -1,12 +1,13 @@
 import { addons } from '@storybook/manager-api';
 import { create } from '@storybook/theming/create';
+import voltaLogo from './assets/volta-logo.svg';
 
 const voltaTheme = create({
   base: 'dark',
   brandTitle: 'Volta Design System',
   brandUrl: '/',
   brandTarget: '_self',
-  brandImage: '/assets/volta-logo.svg',
+  brandImage: voltaLogo,
   colorPrimary: '#6366F1',
   colorSecondary: '#818CF8',
   appBg: '#0A0F1E',
