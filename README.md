@@ -1,8 +1,8 @@
 [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg)](https://github.com/prettier/prettier)
 
-# Vola Design System + UXPin Merge
+# Volta Design System + UXPin Merge
 
-Integration of the Vola Design System with UXPin Merge technology.
+Integration of the Volta Design System with UXPin Merge technology.
 
 ## Installation
 
@@ -20,9 +20,9 @@ This command will run the build command and package the library in `.tgz` format
 
 `yarn run package`
 
-## About Vola Design System
+## About Volta Design System
 
-Vola Design System is the source of truth for reusable UI components used by design and engineering teams. This repository packages those components for use in UXPin Merge and React projects.
+Volta Design System is the source of truth for reusable UI components used by design and engineering teams. This repository packages those components for use in UXPin Merge and React projects.
 
 ## About UXPin Merge
 
