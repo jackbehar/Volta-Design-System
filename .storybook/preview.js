@@ -29,6 +29,8 @@ const preview = {
   parameters: {
     actions: { argTypesRegex: '^on[A-Z].*' },
     controls: {
+      expanded: true,
+      sort: 'alpha',
       matchers: {
         color: /(background|color)$/i,
         date: /Date$/,
