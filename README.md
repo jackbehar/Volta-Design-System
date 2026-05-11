@@ -1,8 +1,8 @@
 [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg)](https://github.com/prettier/prettier)
 
-# MUI + UXPin Merge
+# Vola Design System + UXPin Merge
 
-Integration of [MUI](https://mui.com/) with UXPin Merge Technology.
+Integration of the Vola Design System with UXPin Merge technology.
 
 ## Installation
 
@@ -20,9 +20,9 @@ This command will run the build command and package the library in `.tgz` format
 
 `yarn run package`
 
-## About MUI
+## About Vola Design System
 
-MUI (formerly Material-UI) is the React UI library you always wanted. You can implement your own design system, or start with Material Design.
+Vola Design System is the source of truth for reusable UI components used by design and engineering teams. This repository packages those components for use in UXPin Merge and React projects.
 
 ## About UXPin Merge
 
