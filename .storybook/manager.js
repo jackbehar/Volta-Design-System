@@ -6,7 +6,7 @@ const voltaTheme = create({
   brandTitle: 'Volta Design System',
   brandUrl: '/',
   brandTarget: '_self',
-  brandImage: '/assets/image-12864e3c-8f8b-4fbc-906b-b850f4e84803.png',
+  brandImage: '/assets/volta-logo.svg',
   colorPrimary: '#6366F1',
   colorSecondary: '#818CF8',
   appBg: '#0A0F1E',
